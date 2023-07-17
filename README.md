@@ -1,4 +1,4 @@
-### Hello, my name is Mohamed A. Ighe 👋 😊
+## Hello, my name is Mohamed A. Ighe 👋 😊
 
 About Me:
 - 👋 My name is Mohamed A. Ighe, and my username is @katarighe
