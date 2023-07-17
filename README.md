@@ -16,6 +16,7 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 - 💞️ I’m looking to collaborate on developing new things with partners. 
 
 ### Langauges and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Contact me
 - 📫 How to reach me: m.ighe@hotmail.com
