@@ -1,6 +1,6 @@
 ## Hello, thank you for visiting my GitHub page! 👋 😊
 
-## 👨‍💻 A passionate remote Software and Web developer 🌐
+### 👨‍💻 A passionate remote Software and Web developer 🌐
 
 ### About Me
 - 👋 My name is **Mohamed A. Ighe**, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
