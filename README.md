@@ -20,6 +20,7 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 - 📞 📧 WhatsApp / Viber / Telegram: +16473739841
 
 ### Statistics
+<img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
 [![katarighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe)](https://github.com/katarighe/github-readme-stats)
 
 <!---
