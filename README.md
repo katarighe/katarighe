@@ -18,6 +18,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
 ### Contact me
+<div>
+  <a href="https://www.linkedin.com/in/katarighe/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://lichess.org/@/Austinae"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" /></a>
+  <a href="mailto:athlon.wiki@gmail.com?subject=Hi%20Mohamed%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+</div>
+
 - 📫 **How to reach me:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
 
