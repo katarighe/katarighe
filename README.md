@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @katarighe
+Hello, my name is Mohamed A. Ighe 👋 😊
+
+About Me:
+- 👋 My name is Mohamed A. Ighe, and my username is @katarighe
 - 👀 I’m interested in software
-- 🌱 I’m currently learning how to code
+- 🌱 Currently a student at Microverse as of May 2023, currently learning how to code well. 
 - 💞️ I’m looking to collaborate on developing new things
 - 📫 How to reach me: m.ighe@hotmail.com
 
