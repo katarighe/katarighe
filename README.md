@@ -1,6 +1,8 @@
 ## Hello, my name is Mohamed A. Ighe 👋 😊
 
 ### Bio
+My name is Mohamed A. Ighe, I am a 
+
 A skilled and motivated individual with strong critical thinking and decision-making skills in Information Technology/Computer Science, as well as strong attention to detail and keenness to learn about new 
 technologies and issues. I have demonstrated previous experiences across various industries combined with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative 
 and dynamic work environment. My goal is to secure a full-time job position within a leading organization or company that offers opportunities for growth and advancement while applying a high degree of 
