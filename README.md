@@ -7,7 +7,7 @@
 ### Who am I?
 - 👋 My name is **Mohamed A. Ighe**, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
-- 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
+- 🌱 Currently a student at Microverse as of May 2023, learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 Able to demonstrate a wide variety of other IT skills such as data, networking, IT support, operating systems, designing, conducting research, and handling academic-related tasks in schools and universities.
@@ -28,15 +28,14 @@
   <a href=""> <img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
   <a href=""> <img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
   <a href=""> <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-  <a href=""> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href=""> <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+  <a href="https://www.facebook.com/katarighe/"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/katarighe/"> <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
   <a href=""> <img alt="Line" src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
   <a href=""> <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white" /></a>
-  <a href=""> <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
   <a href=""> <img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
 </div>
 
-#### In case of assistance
+#### In case of assistance / help
 - 📫 **How to reach me:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
 
