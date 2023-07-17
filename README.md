@@ -24,6 +24,7 @@
 
 ![Mohamed Aden Ighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe&show_icons=true&theme=radical)
 [![Mohamed Aden Ighe's GitHub Streak](https://streak-stats.demolab.com/?user=katarighe&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical)](https://git.io/streak-stats)
+[![Mohamed Aden Ighe's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=katarighe)](https://github.com/katarighe/github-readme-stats)
 
 <!---
 katarighe/katarighe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
