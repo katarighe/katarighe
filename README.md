@@ -34,6 +34,7 @@
   <a href=""> <img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
 </div>
 
+#### For more info...
 - 📫 **How to reach me:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
 
