@@ -3,14 +3,14 @@
 ## 👨‍💻 A passionate remote Software and Web developer 🌐
 
 ### About Me
-- 👋 My name is Mohamed A. Ighe, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
+- 👋 My name is ***Mohamed A. Ighe***, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 Able to demonstrate a wide variety of other IT skills such as data, networking, IT support, operating systems, designing, conducting research, and handling academic-related tasks in schools and universities.
 - 🏭 Demonstrated previous experiences across various industries combined with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
-- 🔮 My goal is to secure a full-time job position within a leading organization or company that offers opportunities for growth and advancement while applying a high degree of professionalism and enthusiasm. 
+- 🔮 Currently looking for new opportunities at the moment. My goal is to secure a full-time career within a leading organization or company that offers opportunities for growth and advancement while applying a high degree of professionalism and enthusiasm. 
 
 ### Langauges and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
