@@ -3,7 +3,7 @@
 ## 👨‍💻 A passionate remote Software and Web developer 🌐
 
 ### About Me
-- 👋 My name is Mohamed A. Ighe, and my username is @katarighe.
+- 👋 My name is Mohamed A. Ighe, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
