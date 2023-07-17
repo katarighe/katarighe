@@ -25,7 +25,7 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
 
 ![Mohamed Aden Ighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe&show_icons=true&theme=radical)
-[![Mohamed Aden Ighe's GitHub Streak](https://streak-stats.demolab.com/?user=katarighe&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![Mohamed Aden Ighe's GitHub Streak](https://streak-stats.demolab.com/?user=katarighe&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.jtheme=radical)](https://git.io/streak-stats)
 
 <!---
 katarighe/katarighe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
