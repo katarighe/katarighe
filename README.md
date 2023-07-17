@@ -2,9 +2,9 @@
 
 ## Hello, thank you for visiting my GitHub page! 👋 😊
 
-### 👨‍💻 A passionate Remote Software and Web developer 🌐
+### 👨‍💻 A passionate Full-Stack Remote developer 🌐
 
-### About Me
+### Who am I?
 - 👋 My name is **Mohamed A. Ighe**, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
@@ -17,7 +17,7 @@
 ### Langauges and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
-### Contact me
+### My contacts
 <div>
   <a href="https://www.linkedin.com/in/katarighe/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:athlon.wiki@gmail.com?subject=Hi%20Mohamed%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
@@ -34,11 +34,11 @@
   <a href=""> <img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
 </div>
 
-#### For more info...
+#### In case of assistance
 - 📫 **How to reach me:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
 
-### Statistics
+### My Statistics
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
 
 ![Mohamed Aden Ighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe&show_icons=true&theme=radical)
