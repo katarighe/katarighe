@@ -5,7 +5,7 @@
 ### About Me
 - 👋 My name is Mohamed A. Ighe, and my username is @katarighe.
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
-- 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various languages, such as **HTML**, **CSS**, **JavaScript**. 
+- 🌱 Currently a student at Microverse as of May 2023, currently learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 Able to demonstrate a wide variety of other IT skills such as data, networking, IT support, operating systems, designing, conducting research, and handling academic-related tasks in schools and universities.
