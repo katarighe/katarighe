@@ -1,5 +1,7 @@
 ## Hello, my name is Mohamed A. Ighe - Thank your for visiting my GitHub page! 👋 😊
 
+### 👨‍💻 A passionate remote Software and Web developer 🌐
+
 ### About Me
 - 👋 My name is Mohamed A. Ighe, and my username is @katarighe.
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
