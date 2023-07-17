@@ -1,6 +1,6 @@
 ## Hello, my name is Mohamed A. Ighe 👋 😊
 
-### Biography
+### Bio
 A skilled and motivated individual with strong critical thinking and decision-making skills in Information Technology/Computer Science, as well as strong attention to detail and keenness to learn about new 
 technologies and issues. I have demonstrated previous experiences across various industries combined with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative 
 and dynamic work environment. My goal is to secure a full-time job position within a leading organization or company that offers opportunities for growth and advancement while applying a high degree of 
@@ -12,10 +12,12 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 - 👀 I’m interested in software
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code well. 
 - 💞️ I’m looking to collaborate on developing new things
-- 📫 How to reach me: m.ighe@hotmail.com
 
 ### Langauges and Tools
 
+### Contact me
+- 📫 How to reach me: m.ighe@hotmail.com
+- 📞 📧 WhatsApp / Viber / Telegram: +16473739841
 
 ### Statistics
 [![katarighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe)](https://github.com/katarighe/github-readme-stats)
