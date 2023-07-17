@@ -22,7 +22,7 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 ### Statistics
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
 
-[![katarighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe)](https://github.com/katarighe/github-readme-stats)
+[![katarighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe)](https://github.com/katarighe/github-readme-stats&theme=radical)
 
 <!---
 katarighe/katarighe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
