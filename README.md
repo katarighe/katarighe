@@ -9,9 +9,9 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 
 ### About Me
 - 👋 My name is Mohamed A. Ighe, and my username is @katarighe
-- 👀 I’m interested in software
+- 👀 I’m interested various IT fields such as in software, data, IT support, etc. 
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code well. 
-- 💞️ I’m looking to collaborate on developing new things
+- 💞️ I’m looking to collaborate on developing new things with partners. 
 
 ### Langauges and Tools
 
