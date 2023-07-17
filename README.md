@@ -8,8 +8,8 @@ professionalism and enthusiasm. Through my previous 5 years of experience, I hav
 Able to demonstrate a wide variety of skills such as data, networking, IT support, operating systems, designing, conducting research, and handling academic-related tasks in schools and universities. 
 
 ### About Me
-- 👋 My name is Mohamed A. Ighe, and my username is @katarighe
-- 👀 I’m interested various IT fields such as in software, data, IT support, etc. 
+- 👋 My name is Mohamed A. Ighe, and my username is @katarighe.
+- 👀 I’m interested in software development, web development, data analysis, IT support, etc. 
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code well. 
 - 💞️ I’m looking to collaborate on developing new things with partners. 
 
