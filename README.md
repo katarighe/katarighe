@@ -1,7 +1,7 @@
 ## Hello, my name is Mohamed A. Ighe - Thank your for visiting my GitHub page! 👋 😊
 
 <p align="center">
-### 👨‍💻 A passionate remote Software and Web developer 🌐
+👨‍💻 ***A passionate remote Software and Web developer*** 🌐
 </p>
 
 ### About Me
