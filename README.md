@@ -1,4 +1,4 @@
-## Hello, my name is Mohamed A. Ighe - Thank your for visiting my GitHub page! 👋 😊
+## Hello, thank you for visiting my GitHub page! 👋 😊
 
 <p align="center">
 👨‍💻 "A passionate remote Software and Web developer" 🌐
