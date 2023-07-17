@@ -14,6 +14,9 @@ Able to demonstrate a wide variety of skills such as data, networking, IT suppor
 - 💞️ I’m looking to collaborate on developing new things
 - 📫 How to reach me: m.ighe@hotmail.com
 
+### Statistics
+[![katarighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe)](https://github.com/katarighe/github-readme-stats)
+
 <!---
 katarighe/katarighe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
