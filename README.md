@@ -3,7 +3,7 @@
 ### About Me
 - 👋 My name is Mohamed A. Ighe, and my username is @katarighe.
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
-- 👀 I’m interested in software development, web development, data analysis, IT support, etc. 
+- 👀 I’m interested in software development, web development, etc. 
 - 🌱 Currently a student at Microverse as of May 2023, currently learning how to code well. 
 - 💞️ I’m looking to collaborate on developing new things with partners.
 - 💼 Through my previous 5 years of experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
@@ -15,8 +15,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
 ### Contact me
-- 📫 How to reach me: m.ighe@hotmail.com
-- 📞 📧 WhatsApp / Viber / Telegram: +16473739841
+- 📫 **How to reach me:** m.ighe@hotmail.com
+- 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
 
 ### Statistics
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
