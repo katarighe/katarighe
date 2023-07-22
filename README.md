@@ -37,7 +37,7 @@
 
 #### In case of assistance / help
 - 📫 **How to reach me:** m.ighe@hotmail.com
-- 📞 📧 **WhatsApp / Viber / Telegram:** +16473739841
+- 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +16473739841
 
 ### My Statistics
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
