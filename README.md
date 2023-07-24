@@ -25,7 +25,7 @@
   <a href="https://www.twitter.com/katarighe"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
   <a href="https://telegram.me/katarighe"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=p_BiBB0AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)" /></a>
-  <a href=""> <img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
+  <a href="live:m.ighe"> <img alt="Skype" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" /></a>
   <a href=""> <img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" /></a>
   <a href="https://www.reddit.com/u/Katarighe?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=3&utm_content=1"> <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://www.facebook.com/katarighe/"> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
