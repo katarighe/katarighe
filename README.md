@@ -5,7 +5,7 @@
 ### 👨‍💻 A passionate Full-Stack Remote developer currently studying 🌐
 
 ### Who am I?
-- 👋 My name is **Mohamed A. Ighe**, a graduate in Bachelors in Information Technology (2016) and Masters in Computer Science (2020).
+- 👋 My name is Mohamed A. Ighe. I graduated with a Bachelor of Science in Information Technology degree in 2016 and a Master of Science in Computer Science degree in 2020.
 - 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as strong attention to detail and keenness to learn about new technologies and issues.
 - 🌱 Currently a student at Microverse, learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
