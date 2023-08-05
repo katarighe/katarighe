@@ -11,7 +11,7 @@
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 Able to demonstrate a wide variety of other IT skills such as data, networking, IT support, operating systems, designing, conducting research, and handling academic-related tasks in schools and universities.
-- 🏭 Demonstrated previous experiences across various industries combined with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
+- 🏭 Demonstrated previous experiences in a variety of industries, along with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
 - 🔮 I am currently seeking new opportunities. I am eager to secure a full-time career with a leading organization or company that offers opportunities for growth and advancement. I am confident that I can contribute my skills and experience to a team that values professionalism and enthusiasm.
 
 ### Langauges and Tools
