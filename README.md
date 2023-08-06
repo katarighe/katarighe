@@ -22,8 +22,8 @@
     <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png" width="100" />
   </div>
 
-### GitHub Merits
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a> </p>
+### Merits
+<img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a> </p>
 
 ### My contacts
 <div>
