@@ -2,7 +2,7 @@
 
 ## Hello, thank you for visiting my GitHub page! 👋 😊
 
-### 👨‍💻 A passionate Full-Stack Remote developer currently studying 🌐
+### 👨‍💻 A passionate full-stack remote developer currently studying at Microverse since May 2023. 🌐
 
 ### Who am I?
 - 👋 My name is Mohamed A. Ighe. I graduated with a Bachelor of Science in Information Technology degree in 2016 and a Master of Science in Computer Science degree in 2020.
