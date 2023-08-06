@@ -22,6 +22,9 @@
     <img src="https://user-images.githubusercontent.com/41564330/215272443-654d97a2-2546-405d-bb1b-abcaa590d5ef.png" width="100" />
   </div>
 
+### GitHub Merits
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a> </p>
+
 ### My contacts
 <div>
   <a href="https://www.linkedin.com/in/katarighe/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
