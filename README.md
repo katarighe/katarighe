@@ -18,10 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
 ### Credentials
-  <div>
-    <img src="https://github.com/katarighe/katarighe/assets/80690364/6b80a0b3-fce2-4592-bd0d-11769cdcf3ff" width="100" />
-      <img src="https://user-images.githubusercontent.com/41564330/221399555-d5255600-83f0-406a-9289-d002f887f45a.png" width="100"/>
-  </div>
+<div>
+  <img src="https://github.com/katarighe/katarighe/assets/80690364/6b80a0b3-fce2-4592-bd0d-11769cdcf3ff" width="200" />
+  <img src="https://github.com/katarighe/katarighe/assets/80690364/7567fdb3-8b53-4df5-af5e-a8721431a124" width="200"/>
+</div>
 
 ### Merits
 <img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a> </p>
