@@ -19,8 +19,8 @@
 
 ### Credentials
 <div>
-  <img src="https://github.com/katarighe/katarighe/assets/80690364/6b80a0b3-fce2-4592-bd0d-11769cdcf3ff" width="150" />
-  <img src="https://github.com/katarighe/katarighe/assets/80690364/7567fdb3-8b53-4df5-af5e-a8721431a124" width="150"/>
+  <img src="https://github.com/katarighe/katarighe/assets/80690364/6b80a0b3-fce2-4592-bd0d-11769cdcf3ff" width="100" />
+  <img src="https://github.com/katarighe/katarighe/assets/80690364/7567fdb3-8b53-4df5-af5e-a8721431a124" width="100"/>
 </div>
 
 ### Merits
