@@ -6,7 +6,7 @@
 
 ### Who am I?
 - 👋 My name is Mohamed A. Ighe. I graduated with a Bachelor of Science in Information Technology degree in 2016 and a Master of Science in Computer Science degree in 2020.
-- 🙋‍♂️ A skilled and motivated individual with strong critical thinking and decision-making skills, as well as a strong attention to detail and a keenness to learn about new technologies and issues.
+- 🙋‍♂️ A highly skilled and motivated individual with excellent critical thinking and decision-making abilities, as well as a keen eye for detail and a passion for learning about new technologies and issues.
 - 🌱 Currently a student at Microverse, learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
