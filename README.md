@@ -14,7 +14,7 @@
 - 🏭 Demonstrated previous experiences in a variety of industries, along with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
 - 🔮 I am currently seeking new opportunities. I am eager to secure a full-time career with a leading organization or company that offers opportunities for growth and advancement. I am confident that I can contribute my skills and experience to a team that values professionalism and enthusiasm.
 
-### Langauges and Tools
+### Langauges, Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
 ### Credentials
