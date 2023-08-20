@@ -44,7 +44,7 @@
   <a href="https://msng.link/o?16473739841=vi"> <img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
 </div>
 
-#### In case of assistance / help
+#### How to reach me
 - 📫 **How to reach me:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +16473739841
 
