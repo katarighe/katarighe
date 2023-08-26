@@ -45,7 +45,7 @@
 </div>
 
 #### How to reach me
-- 📫 **How to reach me:** m.ighe@hotmail.com
+- 📫 **Email:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +16473739841
 
 ### My Statistics
