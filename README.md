@@ -1,6 +1,6 @@
 ![image](https://github.com/katarighe/katarighe/assets/80690364/902ea34b-86ab-4da1-8f56-c5183b3aeb4a)
 
-## Hello, thank you for visiting my GitHub page! 👋 😊
+## Hello, thank you for visiting! 👋 😊
 
 ### 👨‍💻 A passionate full-stack remote developer currently studying at Microverse since May 2023. 🌐
 
