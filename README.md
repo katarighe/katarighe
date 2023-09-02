@@ -17,6 +17,7 @@
 ### Langauges, Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
 
+
 ### Credentials
 <div>
   <img src="https://github.com/katarighe/katarighe/assets/80690364/6b80a0b3-fce2-4592-bd0d-11769cdcf3ff" width="100" />
