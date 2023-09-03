@@ -47,6 +47,7 @@
 #### How to reach me
 - 📫 **Email:** m.ighe@hotmail.com
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +16473739841
+- 📝 **Wellfound (formerly Angellist)**: https://wellfound.com/u/katarighe
 
 ### My Statistics
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
