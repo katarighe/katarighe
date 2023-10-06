@@ -12,7 +12,7 @@
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 I am proficient in a wide range of IT skills, including data management, networking, IT support, operating systems, design, research, and academic tasks.
 - 🏭 Demonstrated previous experiences in a variety of industries, along with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
-- 🔮 I am currently seeking new opportunities starting from February / March 2024. I am eager to secure a full-time career with a leading organization or company that offers opportunities for growth and advancement. I am confident that I can contribute my skills and experience to a team that values professionalism and enthusiasm.
+- 🔮 I am currently seeking new opportunities starting from February or March 2024. I am eager to secure a full-time career with a leading organization or company that offers opportunities for growth and advancement. I am confident that I can contribute my skills and experience to a team that values professionalism and enthusiasm.
 
 ### Langauges, Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
