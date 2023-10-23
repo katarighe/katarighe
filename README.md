@@ -25,9 +25,6 @@
   <img src="https://github.com/katarighe/katarighe/assets/80690364/c2507c8e-af12-4730-bb03-0e4e66b3fe2a" width="100" />
 </div>
 
-![image](https://github.com/katarighe/katarighe/assets/80690364/73150696-6d83-4ff4-a4c9-af5ee8a44439)
-
-
 ### Merits
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a>
 
