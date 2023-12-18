@@ -24,6 +24,7 @@
   <img src="https://github.com/katarighe/katarighe/assets/80690364/b2d3d163-2d8f-4db7-92f4-c20008c7de27" width="100" />
   <img src="https://github.com/katarighe/katarighe/assets/80690364/c2507c8e-af12-4730-bb03-0e4e66b3fe2a" width="100" />
   <img src="https://github.com/katarighe/katarighe/assets/80690364/5de9f444-856b-4ea2-87e0-91db893d4c88" width="100" />
+  <img src="https://github.com/katarighe/katarighe/assets/80690364/bb465291-1b66-4178-a3d2-941244ad3ab7" width="100" />
 </div>
 
 ### Merits
