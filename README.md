@@ -1,4 +1,4 @@
-![image](https://github.com/katarighe/katarighe/assets/80690364/131279e1-fd2b-4307-ab8f-0401ea709f15)
+![linkedin-banner](https://github.com/katarighe/katarighe/assets/80690364/a8c14395-c61d-42ae-ab6e-23f9cc42b592)
 
 ## Hello, thank you for visiting! 👋 😊
 
