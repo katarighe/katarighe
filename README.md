@@ -1,6 +1,4 @@
-![linkedin-banner](https://github.com/katarighe/katarighe/assets/80690364/a8c14395-c61d-42ae-ab6e-23f9cc42b592)
-
-## Hello, thank you for visiting! 👋 😊
+## Greetings, I'm Mohamed 👋 😊
 
 ### 👨‍💻 A passionate full-stack remote developer 🌐
 - 👋 My name is Mohamed A. Ighe. I graduated with a Bachelor of Science in Information Technology degree in 2016 and a Master of Science in Computer Science degree in 2020.
