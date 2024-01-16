@@ -6,8 +6,6 @@
 - 🌱 My recent participation in Microverse's intensive full-stack program has strengthened my skills, as evidenced by my 20+ successful solo and collaborative projects. 
 - 💞️ I've actively collaborated with remote developers from around the globe and boosted my teamwork skills through numerous group projects, encompassing both backend and frontend development.
 - 💼 Throughout my career, I've actively cultivated my expertise through collaborations with diverse companies and organizations. My direct influence on the success of dozens of clients has showcased my versatile skillset, spanning data management, networking, IT support, operating systems, design, research, full-stack development, and even academic-related projects.
-- 🔎 As a full-stack developer with expertise in front-end and back-end skills, I thrive on building and deploying applications.
-- 🏭 Demonstrated previous experiences in a variety of industries, along with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
 - 🔮 I am actively pursuing new opportunities beginning in 2024. I am enthusiastic about securing a full-time position with a prominent organization or company that provides avenues for professional growth and advancement. I believe in my ability to contribute my skills and experience to a team that values both professionalism and enthusiasm.
 
 ### Langauges, Tools and Skills
