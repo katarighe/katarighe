@@ -1,14 +1,14 @@
 ## Greetings, I'm Mohamed 👋 😊
 
 ### 👨‍💻 A passionate full-stack remote developer 🌐
-- 👋 My name is Mohamed A. Ighe. I graduated with a Bachelor of Science in Information Technology degree in 2016 and a Master of Science in Computer Science degree in 2020.
-- 🙋‍♂️ A highly skilled and motivated individual with excellent critical thinking and decision-making abilities, as well as a keen eye for detail and a passion for learning about new technologies and issues.
-- 🌱 Currently a student at Microverse, learning how to code various programming languages, such as **HTML**, **CSS**, **JavaScript**. 
+- 👋 I'm Mohamed A. Ighe, holding a Bachelor of Science in Information Technology degree earned in 2016, and a Master of Science in Computer Science degree attained in 2020.
+- 🙋‍♂️ An adept and driven individual possessing exceptional critical thinking and decision-making skills, coupled with a meticulous attention to detail and a fervent enthusiasm for exploring emerging technologies and contemporary issues.
+- 🌱 Presently enrolled as a student at Microverse, where I am acquiring proficiency in coding across a spectrum of programming languages, encompassing both backend and frontend development.
 - 💞️ Looking forward to collaborating on developing new things with partners and learn something better from others. 
 - 💼 Through my previous experience, I have had the opportunity to develop my IT skills involving multiple companies and organizations directly impacting dozens of clients.
 - 🔎 I am proficient in a wide range of IT skills, including data management, networking, IT support, operating systems, design, research, and academic tasks.
 - 🏭 Demonstrated previous experiences in a variety of industries, along with deep technical and research knowledge, flexibility, and the ability to secure a position in a creative and dynamic work environment.
-- 🔮 I am currently seeking new opportunities starting in 2024. I am eager to secure a full-time career with a leading organization or company that offers opportunities for growth and advancement. I am confident that I can contribute my skills and experience to a team that values professionalism and enthusiasm.
+- 🔮 I am actively pursuing new opportunities beginning in 2024. I am enthusiastic about securing a full-time position with a prominent organization or company that provides avenues for professional growth and advancement. I believe in my ability to contribute my skills and experience to a team that values both professionalism and enthusiasm.
 
 ### Langauges, Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
