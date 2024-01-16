@@ -43,7 +43,7 @@
 </div>
 
 #### How to reach me
-- 🌎 **My Website:** [katarighe.tech](http://katarighe.tech)
+- 🌎 **My Website / Portfolio:** [katarighe.tech](http://katarighe.tech)
 - 📫 **Email:** [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com)
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +1 (647) 373 9841
 - 📝 **Wellfound (formerly Angellist)**: [https://wellfound.com/u/katarighe](https://wellfound.com/u/katarighe)
