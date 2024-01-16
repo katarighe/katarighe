@@ -1,7 +1,7 @@
-## 👋😊 Greetings, I'm Mohamed - A full-stack web developer 👨‍💻🌐
+## 👋😊 Greetings, I'm Mohamed: A full-stack web developer 👨‍💻🌐
 
 ### About Me
-- 👋 Completed a Bachelor's degree in Information Technology in 2016, followed by the achievement of a Master of Science in Computer Science in 2020.
+- 👋 Graduated with a Bachelor of Science in Information Technology (BIT) degree in 2016 and earned a Master of Science in Computer Science (MCS) degree in 2020.
 - 🙋‍♂️ An adept and driven individual possessing exceptional critical thinking and decision-making skills, coupled with a meticulous attention to detail and a fervent enthusiasm for exploring emerging technologies and contemporary issues.
 - 🌱 My recent participation in Microverse's intensive full-stack program has strengthened my skills, as evidenced by my 20+ successful solo and collaborative projects. 
 - 💞️ I've actively collaborated with remote developers from around the globe and boosted my teamwork skills through numerous group projects, encompassing both backend and frontend development.
@@ -30,7 +30,8 @@
 </div>
 
 #### Links
-- 🌎 **My Website / Portfolio:** [katarighe.tech](http://katarighe.tech)
+- 🌎 **My Website:** [katarighe.tech](http://katarighe.tech)
+- 📂 **Portfolio:** [github.com/katarighe](https://github.com/katarighe?tab=repositories)
 - 📫 **Email:** [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com)
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +1 (647) 373 9841
 - 📝 **Wellfound (formerly Angellist)**: [https://wellfound.com/u/katarighe](https://wellfound.com/u/katarighe)
