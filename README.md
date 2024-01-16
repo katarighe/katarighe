@@ -1,5 +1,6 @@
-## 👋😊 Greetings, I'm Mohamed: A full-stack web developer 👨‍💻🌐
+![linkedin-banner](https://github.com/katarighe/katarighe/assets/80690364/9b6a1cbb-1e3e-4dbe-a965-fe2baad18eec)
 
+## 👋😊 Greetings, I'm Mohamed: A full-stack web developer 👨‍💻🌐
 ### About Me
 - 👋 Graduated with a Bachelor of Science in Information Technology (BIT) degree in 2016 and earned a Master of Science in Computer Science (MCS) degree in 2020.
 - 🙋‍♂️ An adept and driven individual possessing exceptional critical thinking and decision-making skills, coupled with a meticulous attention to detail and a fervent enthusiasm for exploring emerging technologies and contemporary issues.
