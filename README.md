@@ -36,7 +36,7 @@
 - 📫 **Email:** [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com)
 - 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +1 (647) 373 9841
 - 📝 **Wellfound (formerly Angellist)**: [https://wellfound.com/u/katarighe](https://wellfound.com/u/katarighe)
-- ⁉ **My Resume** [is available](https://docs.google.com/document/d/10aKwG5M8Q0UozSecJdDe7ipX0eyMuoFZvQSNt3-qggE/edit?usp=sharing) here for reference.
+- ⁉ **My Resume** [is available](https://docs.google.com/document/d/10aKwG5M8Q0UozSecJdDe7ipX0eyMuoFZvQSNt3-qggE/edit?usp=sharing) for reference.
 
 ### My Statistics
 #### Certifcations
