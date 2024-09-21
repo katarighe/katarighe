@@ -1,4 +1,4 @@
-![linkedin-banner](https://github.com/katarighe/katarighe/assets/80690364/9b6a1cbb-1e3e-4dbe-a965-fe2baad18eec)
+![image](https://github.com/user-attachments/assets/dabf4f25-8379-45bb-b975-5ec484232276)
 
 ## 👋😊 Greetings, I'm Mohamed 👨‍💻🌐
 ### About Me
