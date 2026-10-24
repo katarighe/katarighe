@@ -4,7 +4,7 @@
 
 ## 👋😊 Greetings, I'm Mohamed 👨‍💻🌐
 - 👋 Full-stack developer and Data Analyst with a Bachelor in Information Technology (2016) and a Master of Computer Science (2020).
-- 🛠️ I build web applications with React, Redux, Ruby on Rails, and PostgreSQL. I've completed 15+ projects, with live demos below.
+- 🛠️ I build web applications with React, Redux, Ruby on Rails, and PostgreSQL and completed 15+ projects.
 - 🎓 Completed Microverse's full-stack program (2023) and mentored 10+ students there, with project guidance and code reviews.
 - 🗄️ Taught Database Systems and SQL at university level, covering schema design, normalization, and query optimization.
 - 📚 Researcher with three peer-reviewed papers on information quality: [Google Scholar](https://scholar.google.com/citations?user=p_BiBB0AAAAJ&hl=en)
