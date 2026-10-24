@@ -1,13 +1,15 @@
 ![image](https://github.com/user-attachments/assets/dabf4f25-8379-45bb-b975-5ec484232276)
 
+📫 [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com) · [Portfolio](https://katarighe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mighe) · [Medium](https://medium.com/@katarighe)
+
 ## 👋😊 Greetings, I'm Mohamed 👨‍💻🌐
-### About Me
-- 👋 Graduated with a Bachelor of Science in Information Technology (BIT) degree in 2016 and earned a Master of Science in Computer Science (MCS) degree in 2020.
-- 🙋‍♂️ An adept and driven individual possessing exceptional critical thinking and decision-making skills, coupled with a meticulous attention to detail and a fervent enthusiasm for exploring emerging technologies and contemporary issues.
-- 🌱 My recent participation in Microverse's intensive full-stack program has strengthened my skills, as evidenced by my 20+ successful solo and collaborative projects. 
-- 💞️ I've actively collaborated with remote developers from around the globe and boosted my teamwork skills through numerous group projects, encompassing both backend and frontend development.
-- 💼 Throughout my career, I've actively cultivated my expertise through collaborations with diverse companies and organizations. My direct influence on the success of dozens of clients has showcased my versatile skillset, spanning data management, networking, IT support, operating systems, design, research, full-stack development, and even academic-related projects.
-- 🔮 I am actively pursuing new opportunities. I am enthusiastic about securing a full-time position with a prominent organization or company that provides avenues for professional growth and advancement. I believe in my ability to contribute my skills and experience to a team that values both professionalism and enthusiasm.
+- 👋 Full-stack developer with a Bachelor in Information Technology (2016) and a Master of Computer Science (2020).
+- 🛠️ I build web applications with React, Redux, Ruby on Rails, and PostgreSQL. I've completed 15+ projects, with live demos below.
+- 🎓 Completed Microverse's full-stack program (2023) and mentored 10+ students there, with project guidance and code reviews.
+- 🗄️ Taught Database Systems and SQL at university level, covering schema design, normalization, and query optimization.
+- 📚 Researcher with three peer-reviewed papers on information quality: [Google Scholar](https://scholar.google.com/citations?user=p_BiBB0AAAAJ&hl=en)
+- 🌍 Experienced in remote collaboration, from pair programming to group projects across front end and back end.
+- 🔮 Open to remote contract and full-time roles as a full-stack developer or data/SQL analyst.
 
 ### Langauges | Tools | Frameworks | Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,css,cpp,r,git,github,mysql,nodejs,php,py,ruby,sass,vscode,wordpress,bootstrap,linkedin,rails,typescript,react,redux,webpack,tailwind)](https://skillicons.dev)
@@ -30,14 +32,6 @@
   <a href="https://msng.link/o?16473739841=vi"> <img alt="Viber" src="https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white" /></a>
 </div>
 
-#### Links
-- 🌎 **My Website:** [katarighe.tech](http://katarighe.tech)
-- 📂 **Portfolio:** [github.com/katarighe](https://github.com/katarighe?tab=repositories)
-- 📫 **Email:** [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com)
-- 📞 📧 **WhatsApp / Viber / Telegram / Signal:** +1 (647) 373 9841
-- 📝 **Wellfound (formerly Angellist)**: [https://wellfound.com/u/katarighe](https://wellfound.com/u/katarighe)
-- ⁉ **My Resume** [is available](https://docs.google.com/document/d/10aKwG5M8Q0UozSecJdDe7ipX0eyMuoFZvQSNt3-qggE/edit?usp=sharing) for reference.
-
 ### My Statistics
 #### Certifcations
 <div>
@@ -49,15 +43,11 @@
   <img src="https://github.com/katarighe/katarighe/assets/80690364/bb465291-1b66-4178-a3d2-941244ad3ab7" width="100" />
 </div>
 
-#### Merits
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katarighe" alt="katarighe" /></a>
-
 #### GitHub
 <img src="https://komarev.com/ghpvc/?username=katarighe" alt="katarighe" />
 
 ![Mohamed Aden Ighe's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarighe&show_icons=true&theme=radical)
 [![Mohamed Aden Ighe's GitHub Streak](https://streak-stats.demolab.com/?user=katarighe&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=radical)](https://git.io/streak-stats)
-[![Mohamed Aden Ighe's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=katarighe&theme=radical)](https://github.com/katarighe/github-readme-stats)
 
 <!---
 katarighe/katarighe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
