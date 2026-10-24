@@ -3,7 +3,7 @@
 📫 [m.ighe@hotmail.com](mailto:m.ighe@hotmail.com) · [Portfolio](https://katarighe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mighe) · [Medium](https://medium.com/@katarighe)
 
 ## 👋😊 Greetings, I'm Mohamed 👨‍💻🌐
-- 👋 Full-stack developer with a Bachelor in Information Technology (2016) and a Master of Computer Science (2020).
+- 👋 Full-stack developer and Data Analyst with a Bachelor in Information Technology (2016) and a Master of Computer Science (2020).
 - 🛠️ I build web applications with React, Redux, Ruby on Rails, and PostgreSQL. I've completed 15+ projects, with live demos below.
 - 🎓 Completed Microverse's full-stack program (2023) and mentored 10+ students there, with project guidance and code reviews.
 - 🗄️ Taught Database Systems and SQL at university level, covering schema design, normalization, and query optimization.
